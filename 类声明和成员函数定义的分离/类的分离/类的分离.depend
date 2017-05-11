@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1494508401 source:e:\git\c-plus\类声明和成员函数定义的分离\类的分离\main.cpp
+	<iostream>
+	"student.h"
+
+1494508623 e:\git\c-plus\类声明和成员函数定义的分离\类的分离\student.h
+	<string>
+
+1494509150 source:e:\git\c-plus\类声明和成员函数定义的分离\类的分离\student.cpp
+	<iostream>
+	"student.h"
+
