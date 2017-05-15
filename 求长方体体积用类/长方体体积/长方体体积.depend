@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494512211 source:e:\git\c-plus\求长方体体积用类\长方体体积\main.cpp
+	<iostream>
+	"volume.h"
+
+1494512080 e:\git\c-plus\求长方体体积用类\长方体体积\volume.h
+
+1494512789 source:e:\git\c-plus\求长方体体积用类\长方体体积\volume.cpp
+	<iostream>
+	"volume.h"
+
+1494512080 source:e:\git\c-plus\求长方体体积用类\长方体体积\volume.h
+
